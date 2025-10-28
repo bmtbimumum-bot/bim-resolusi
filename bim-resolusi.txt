@@ -1,3 +1,4 @@
 BIM resolusi
 - updated tata kelola log in & akses
 - memindahkan absen qiyamulail ke aplikasi react
+-membuat aplikasi mobile
